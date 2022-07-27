@@ -294,7 +294,7 @@ If you would like to preserve the work you've done for this lab on GitHub,
 you'll need to push it up to your fork of this assignment. **Change directory to
 the top-level** once again, then run the following:
 
-```console
+``console
 $ git add .
 $ git commit -m "Done with assignment"
 $ git push origin master
